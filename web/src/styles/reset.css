@@ -1,0 +1,12 @@
+a:focus,
+a:active,
+button,
+div,
+svg,
+span {
+  outline: none;
+}
+
+a {
+  color: inherit;
+}

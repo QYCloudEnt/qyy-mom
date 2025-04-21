@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TMom.Consumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

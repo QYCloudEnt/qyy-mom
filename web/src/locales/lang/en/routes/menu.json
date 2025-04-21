@@ -1,0 +1,45 @@
+{
+  "_base": "Basic data",
+  "_base_modeling": "Factory modeling",
+  "base": {
+    "supplier": "Supplier Management",
+    "modeling": {
+      "modeling": {
+        "workshop": "Workshop management",
+        "line": "Line management",
+        "workstation": "Station management"
+      }
+    }
+  },
+  "_report": "Report development",
+  "report": {
+    "dB": "Data Source Configuration",
+    "config": "Report Configuration",
+    "query": "Report Search",
+    "bigScreen": "Data Screen"
+  },
+  "_dev": "Development configuration",
+  "dev": {
+    "dbMigration": "DbMigration",
+    "autoCode": "Code generation",
+    "dataDic": "Data Dictionary",
+    "sequence": "Encoding rules",
+    "template": "Template Configuration",
+    "file": "Object storage"
+  },
+  "_watch": "Service monitoring",
+  "watch": {
+    "job": "Scheduled task"
+  },
+  "_sys": "System management",
+  "sys": {
+    "user": "User management",
+    "role": "Role management",
+    "menu": "Menu management",
+    "org": "Organizational Management",
+    "log": "System log"
+  },
+  "iframe": {
+    "doc": "Document"
+  }
+}

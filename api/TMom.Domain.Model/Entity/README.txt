@@ -1,0 +1,1 @@
+﻿## 注意所有表的命名空间应为：TMom.Domain.Model.Entity  否则在 DBSeed.cs 文件中反射不到, 生成的文件也会缺少引用

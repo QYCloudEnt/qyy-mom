@@ -1,0 +1,87 @@
+{
+  "excel": {
+    "exportModalTitle": "Export data",
+    "fileType": "File type",
+    "fileName": "File name"
+  },
+  "form": {
+    "putAway": "Put away",
+    "unfold": "Unfold",
+    "maxTip": "The number of characters should be less than {0}",
+    "apiSelectNotFound": "Wait for data loading to complete..."
+  },
+  "table": {
+    "settingDens": "Density",
+    "settingDensDefault": "Default",
+    "settingDensMiddle": "Middle",
+    "settingDensSmall": "Compact",
+    "settingColumn": "Column settings",
+    "settingColumnShow": "Column display",
+    "settingIndexColumnShow": "Index Column",
+    "settingFixedLeft": "Fixed Left",
+    "settingFixedRight": "Fixed Right",
+    "settingFullScreen": "Full Screen",
+    "settingBordered": "Bordered",
+    "index": "Index",
+    "total": "total of {total}"
+  },
+  "model": {
+    "cancelText": "Close",
+    "okText": "Confirm",
+    "close": "Close",
+    "maximize": "Maximize",
+    "restore": "Restore"
+  },
+  "cropper": {
+    "modalTitle": "Avatar upload",
+    "okText": "Confirm and upload",
+    "selectImage": "Select Image",
+    "btn_reset": "Reset",
+    "btn_rotate_left": "Anticlockwise rotation",
+    "btn_rotate_right": "clockwise rotation",
+    "btn_scale_x": "horizontal flip",
+    "btn_scale_y": "flip vertically",
+    "btn_zoom_in": "zoom in",
+    "btn_zoom_out": "zoom out",
+    "preview": "preview",
+    "uploadSuccess": "upload Success"
+  },
+  "upload": {
+    "save": "Save",
+    "upload": "Upload",
+    "imgUpload": "ImageUpload",
+    "uploaded": "Uploaded",
+    "operating": "Operating",
+    "del": "Delete",
+    "download": "download",
+    "saveSuccess": "Save Successful!",
+    "saveWarn": "Please wait for the file to upload and save!",
+    "saveError": "There is no file successfully uploaded and cannot be saved!",
+    "preview": "Preview",
+    "choose": "Select the file",
+    "accept": "Support {0} format",
+    "acceptUpload": "Only upload files in {0} format",
+    "maxSize": "A single file does not exceed {0}MB ",
+    "maxSizeMultiple": "Only upload files up to {0}MB!",
+    "maxNumber": "Only upload up to {0} files",
+    "legend": "Legend",
+    "fileName": "File name",
+    "fileSize": "File size",
+    "fileStatue": "File status",
+    "startUpload": "Start upload",
+    "uploadSuccess": "Upload successfully",
+    "uploadError": "Upload failed",
+    "uploading": "Uploading",
+    "uploadWait": "Please wait for the file upload to finish",
+    "reUploadFailed": "Re-upload failed files"
+  },
+  "import": {
+    "import": "import",
+    "startImport": "Start import",
+    "importSuccess": "Import successfully",
+    "importError": "Import failed",
+    "importing": "Importing",
+    "importWait": "Please wait for the file import to finish",
+    "reImportFailed": "Re-import failed files"
+  }
+}

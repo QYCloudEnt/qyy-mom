@@ -1,0 +1,45 @@
+{
+  "_base": "基础数据",
+  "_base_modeling": "工厂建模",
+  "base": {
+    "supplier": "供应商管理",
+    "modeling": {
+      "modeling": {
+        "workshop": "车间管理",
+        "line": "产线管理",
+        "workstation": "工位管理"
+      }
+    }
+  },
+  "_report": "报表开发",
+  "report": {
+    "dB": "数据源配置",
+    "config": "报表配置",
+    "query": "报表查询",
+    "bigScreen": "数据大屏"
+  },
+  "_dev": "开发配置",
+  "dev": {
+    "dbMigration": "DbMigration",
+    "autoCode": "代码生成",
+    "dataDic": "数据字典",
+    "sequence": "编码规则",
+    "template": "模板配置",
+    "file": "对象存储"
+  },
+  "_watch": "服务监控",
+  "watch": {
+    "job": "定时任务"
+  },
+  "_sys": "系统管理",
+  "sys": {
+    "user": "用户管理",
+    "role": "角色管理",
+    "menu": "菜单管理",
+    "org": "组织管理",
+    "log": "系统日志"
+  },
+  "iframe": {
+    "doc": "文档中心"
+  }
+}

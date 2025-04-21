@@ -1,0 +1,240 @@
+[
+  {
+    "menuName": "系统管理",
+    "icon": "ant-design:setting-outlined",
+    "type": 0,
+    "linkUrl": "/sys",
+    "isKeepAlive": false,
+    "orderSort": 100
+  },
+  {
+    "menuName": "用户管理",
+    "parentId": 1,
+    "icon": "ant-design:user-outlined",
+    "type": 1,
+    "linkUrl": "/user",
+    "ViewPath": "sys/user/index",
+    "isKeepAlive": true,
+    "orderSort": 1
+  },
+  {
+    "menuName": "角色管理",
+    "parentId": 1,
+    "icon": "ant-design:user-switch-outlined",
+    "type": 1,
+    "linkUrl": "/role",
+    "ViewPath": "sys/role/index",
+    "isKeepAlive": true,
+    "orderSort": 2
+  },
+  {
+    "menuName": "菜单管理",
+    "parentId": 1,
+    "icon": "ant-design:menu-unfold-outlined",
+    "type": 1,
+    "linkUrl": "/menu",
+    "ViewPath": "sys/menu/index",
+    "isKeepAlive": true,
+    "orderSort": 3
+  },
+  {
+    "menuName": "组织架构",
+    "parentId": 1,
+    "icon": "ant-design:apartment-outlined",
+    "type": 1,
+    "linkUrl": "/sys/org",
+    "ViewPath": "sys/org/index",
+    "isKeepAlive": false,
+    "orderSort": 5
+  },
+  {
+    "menuName": "开发配置",
+    "icon": "ant-design:experiment-outlined",
+    "type": 0,
+    "linkUrl": "/dev",
+    "isKeepAlive": false,
+    "orderSort": 98
+  },
+  {
+    "menuName": "代码生成",
+    "parentId": 6,
+    "icon": "ant-design:dot-net-outlined",
+    "type": 1,
+    "linkUrl": "/dev/autocode",
+    "ViewPath": "dev/autoCode/index",
+    "isKeepAlive": true,
+    "orderSort": 1
+  },
+  {
+    "menuName": "查询",
+    "parentId": 2,
+    "type": 2,
+    "linkUrl": "/api/SysUser/GetWithPage",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "新增",
+    "parentId": 2,
+    "type": 2,
+    "linkUrl": "/api/SysUser/Add",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "编辑",
+    "parentId": 2,
+    "type": 2,
+    "linkUrl": "/api/SysUser/Update",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "删除",
+    "parentId": 2,
+    "type": 2,
+    "linkUrl": "/api/SysUser/Delete",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "查询",
+    "parentId": 3,
+    "type": 2,
+    "linkUrl": "/api/SysRole/GetWithPage",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "新增",
+    "parentId": 3,
+    "type": 2,
+    "linkUrl": "/api/SysRole/Add",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "编辑",
+    "parentId": 3,
+    "type": 2,
+    "linkUrl": "/api/SysRole/Update",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "删除",
+    "parentId": 3,
+    "type": 2,
+    "linkUrl": "/api/SysRole/Delete",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "查询",
+    "parentId": 4,
+    "type": 2,
+    "linkUrl": "/api/SysMenu/GetWithPage",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "新增",
+    "parentId": 4,
+    "type": 2,
+    "linkUrl": "/api/SysMenu/Add",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "编辑",
+    "parentId": 4,
+    "type": 2,
+    "linkUrl": "/api/SysMenu/Update",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "删除",
+    "parentId": 4,
+    "type": 2,
+    "linkUrl": "/api/SysMenu/Delete",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "查询",
+    "parentId": 5,
+    "type": 2,
+    "linkUrl": "/api/SysOrg/GetWithPage",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "新增",
+    "parentId": 5,
+    "type": 2,
+    "linkUrl": "/api/SysOrg/Add",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "编辑",
+    "parentId": 5,
+    "type": 2,
+    "linkUrl": "/api/SysOrg/Update",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "删除",
+    "parentId": 5,
+    "type": 2,
+    "linkUrl": "/api/SysOrg/Delete",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "DbMigration",
+    "parentId": 6,
+    "icon": "ant-design:delivered-procedure-outlined",
+    "type": 1,
+    "linkUrl": "/dev/dbMigration",
+    "ViewPath": "dev/dbMigration/index",
+    "isKeepAlive": true,
+    "orderSort": 0
+  },
+  {
+    "menuName": "数据迁移",
+    "parentId": 24,
+    "type": 2,
+    "linkUrl": "/api/CodeFirst/DbMigration",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  },
+  {
+    "menuName": "重置密码",
+    "parentId": 2,
+    "type": 2,
+    "linkUrl": "/api/SysUser/ResetPwd",
+    "isKeepAlive": false,
+    "isShow": false,
+    "orderSort": 0
+  }
+]

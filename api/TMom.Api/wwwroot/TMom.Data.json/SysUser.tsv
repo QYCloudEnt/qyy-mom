@@ -1,0 +1,15 @@
+[
+  {
+    "loginAccount": "admin",
+    "password": "E10ADC3949BA59ABBE56E057F20F883E",
+    "realName": "系统管理员",
+    "avatar": "",
+    "isSuper": true,
+    "isEnabled": true,
+    "gender": 1,
+    "phoneNo": "",
+    "email": "",
+    "addr": "苏州市",
+    "remark": ""
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "Code": "BaseCategory",
+    "Name": "基础分类",
+    "SortNo": 0,
+    "CategoryCode": "#",
+    "CategoryName": "#"
+  },
+  {
+    "Code": "vueTemp",
+    "Name": "页面模板",
+    "SortNo": 1,
+    "CategoryCode": "BaseCategory",
+    "CategoryName": "基础分类"
+  },
+  {
+    "Code": "searchTable",
+    "Name": "查询表格",
+    "SortNo": 1,
+    "CategoryCode": "vueTemp",
+    "CategoryName": "页面模板"
+  },
+  {
+    "Code": "searchTableHasDetail",
+    "Name": "查询表格(有详情页)",
+    "SortNo": 2,
+    "CategoryCode": "vueTemp",
+    "CategoryName": "页面模板"
+  },
+  {
+    "Code": "treeTable",
+    "Name": "树状表格",
+    "SortNo": 3,
+    "CategoryCode": "vueTemp",
+    "CategoryName": "页面模板"
+  },
+  {
+    "Code": "leftAndRightSplit",
+    "Name": "左右分隔",
+    "SortNo": 4,
+    "CategoryCode": "vueTemp",
+    "CategoryName": "页面模板"
+  },
+  {
+    "Code": "logType",
+    "Name": "日志类型",
+    "SortNo": 2,
+    "CategoryCode": "BaseCategory",
+    "CategoryName": "基础分类"
+  },
+  {
+    "Code": "Api",
+    "Name": "Api",
+    "SortNo": 1,
+    "CategoryCode": "logType",
+    "CategoryName": "日志类型"
+  },
+  {
+    "Code": "Exception",
+    "Name": "Exception",
+    "SortNo": 2,
+    "CategoryCode": "logType",
+    "CategoryName": "日志类型"
+  },
+  {
+    "Code": "Info",
+    "Name": "Info",
+    "SortNo": 3,
+    "CategoryCode": "logType",
+    "CategoryName": "日志类型"
+  },
+  {
+    "Code": "Sql",
+    "Name": "Sql",
+    "SortNo": 4,
+    "CategoryCode": "logType",
+    "CategoryName": "日志类型"
+  },
+  {
+    "Code": "RequestIpInfo",
+    "Name": "RequestIpInfo",
+    "SortNo": 5,
+    "CategoryCode": "logType",
+    "CategoryName": "日志类型"
+  },
+  {
+    "Code": "Aop",
+    "Name": "Aop",
+    "SortNo": 6,
+    "CategoryCode": "logType",
+    "CategoryName": "日志类型"
+  },
+  {
+    "Code": "DB",
+    "Name": "数据库",
+    "SortNo": 6,
+    "CategoryCode": "BaseCategory",
+    "CategoryName": "基础分类"
+  },
+  {
+    "Code": "0",
+    "Name": "MySql",
+    "SortNo": 1,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "1",
+    "Name": "SqlServer",
+    "SortNo": 2,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "2",
+    "Name": "Sqlite",
+    "SortNo": 3,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "3",
+    "Name": "Oracle",
+    "SortNo": 4,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "4",
+    "Name": "PostgreSQL",
+    "SortNo": 5,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "5",
+    "Name": "Dm",
+    "SortNo": 6,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "6",
+    "Name": "Kdbndp",
+    "SortNo": 7,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "11",
+    "Name": "QuestDB",
+    "SortNo": 8,
+    "CategoryCode": "DB",
+    "CategoryName": "数据库"
+  },
+  {
+    "Code": "jobGroup",
+    "Name": "任务分组",
+    "SortNo": 7,
+    "CategoryCode": "BaseCategory",
+    "CategoryName": "基础分类"
+  },
+  {
+    "Code": "BasicJob",
+    "Name": "基础任务",
+    "SortNo": 1,
+    "CategoryCode": "jobGroup",
+    "CategoryName": "任务分组"
+  }
+]

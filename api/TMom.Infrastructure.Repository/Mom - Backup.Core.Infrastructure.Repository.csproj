@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Sys\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TMom.Domain.IRepository\TMom.Domain.IRepository.csproj" />
+  </ItemGroup>
+
+</Project>
