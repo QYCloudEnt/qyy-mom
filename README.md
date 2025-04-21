@@ -45,6 +45,11 @@ pnpm build
 按照appsettings.json文件中备注的设置, 配置redis和db后，启动项目并导入菜单数据
 
 ```
+- 端口
+
+1. swagger UI:7001
+2. web UI: 7002
+
 #### 说明
 
 1. 前端基于vue3-antdv-admin开发!
